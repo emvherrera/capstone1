@@ -39,9 +39,6 @@ One interesting piece of code in this project is DateTime Format-  is a formatte
 Ex:
  private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 
-
-//Im proud of structuring git staging and commitments consistently with minor errors. This is something I struggled understanding a few weeks ago//
-
 Error Handling-  Learning to anticipate and handle potential problems (like file errors) is a crucial but a confusing aspect of programming. I use Gemini to help explain and revise any errors after exhausting attempts at resolving in debugger without success.
 
 
